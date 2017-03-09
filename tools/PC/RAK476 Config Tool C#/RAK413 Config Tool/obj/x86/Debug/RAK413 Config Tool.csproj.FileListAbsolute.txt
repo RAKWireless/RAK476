@@ -1,0 +1,93 @@
+C:\Users\qujin\Desktop\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK413 Config Tool.exe
+C:\Users\qujin\Desktop\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK413 Config Tool.pdb
+C:\Users\qujin\Desktop\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\qujin\Desktop\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413_Config_Tool.Form1.resources
+C:\Users\qujin\Desktop\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413_Config_Tool.Properties.Resources.resources
+C:\Users\qujin\Desktop\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\qujin\Desktop\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\qujin\Desktop\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413 Config Tool.exe
+C:\Users\qujin\Desktop\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413 Config Tool.pdb
+C:\Users\qujin\Desktop\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\DialogBox.pdb
+C:\Users\qujin\Desktop\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413 Config Tool.exe
+C:\Users\qujin\Desktop\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413 Config Tool.pdb
+C:\Users\qujin\Desktop\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK413 Config Tool.exe
+C:\Users\qujin\Desktop\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK413 Config Tool.pdb
+C:\Users\qujin\Desktop\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\DialogBox.pdb
+C:\Users\qujin\Desktop\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\qujin\Desktop\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413_Config_Tool.Form1.resources
+C:\Users\qujin\Desktop\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413_Config_Tool.Properties.Resources.resources
+C:\Users\qujin\Desktop\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\qujin\Desktop\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\公司项目\WIFI\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413 Config Tool.exe
+E:\公司项目\WIFI\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413 Config Tool.pdb
+E:\公司项目\WIFI\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK413 Config Tool.exe
+E:\公司项目\WIFI\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK413 Config Tool.pdb
+E:\公司项目\WIFI\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\DialogBox.pdb
+E:\公司项目\WIFI\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\公司项目\WIFI\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413_Config_Tool.Form1.resources
+E:\公司项目\WIFI\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413_Config_Tool.Properties.Resources.resources
+E:\公司项目\WIFI\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\公司项目\WIFI\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\1.work project\Software\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK4X3 Config Tool.exe
+E:\1.work project\Software\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK4X3 Config Tool.pdb
+E:\1.work project\Software\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\1.work project\Software\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413_Config_Tool.Form1.resources
+E:\1.work project\Software\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3_Config_Tool.Properties.Resources.resources
+E:\1.work project\Software\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\1.work project\Software\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\1.work project\Software\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3 Config Tool.exe
+E:\1.work project\Software\RAK\RAK413\RAK413工具\RAK413命令配置工具\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3 Config Tool.pdb
+C:\Users\Jean\Desktop\RAK473\RAK4X3命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3 Config Tool.exe
+C:\Users\Jean\Desktop\RAK473\RAK4X3命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3 Config Tool.pdb
+C:\Users\Jean\Desktop\RAK473\RAK4X3命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK4X3 Config Tool.exe
+C:\Users\Jean\Desktop\RAK473\RAK4X3命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK4X3 Config Tool.pdb
+C:\Users\Jean\Desktop\RAK473\RAK4X3命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jean\Desktop\RAK473\RAK4X3命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413_Config_Tool.Form1.resources
+C:\Users\Jean\Desktop\RAK473\RAK4X3命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3_Config_Tool.Properties.Resources.resources
+C:\Users\Jean\Desktop\RAK473\RAK4X3命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jean\Desktop\RAK473\RAK4X3命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\android-studio\RAK473\RAK4X3命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3 Config Tool.exe
+D:\android-studio\RAK473\RAK4X3命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3 Config Tool.pdb
+D:\android-studio\RAK473\RAK4X3命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK4X3 Config Tool.exe
+D:\android-studio\RAK473\RAK4X3命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK4X3 Config Tool.pdb
+D:\android-studio\RAK473\RAK4X3命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\android-studio\RAK473\RAK4X3命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413_Config_Tool.Form1.resources
+D:\android-studio\RAK473\RAK4X3命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3_Config_Tool.Properties.Resources.resources
+D:\android-studio\RAK473\RAK4X3命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\android-studio\RAK473\RAK4X3命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jean\Desktop\RAK476命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3 Config Tool.exe
+C:\Users\Jean\Desktop\RAK476命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3 Config Tool.pdb
+C:\Users\Jean\Desktop\RAK476命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK4X3 Config Tool.exe
+C:\Users\Jean\Desktop\RAK476命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK4X3 Config Tool.pdb
+C:\Users\Jean\Desktop\RAK476命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jean\Desktop\RAK476命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413_Config_Tool.Form1.resources
+C:\Users\Jean\Desktop\RAK476命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3_Config_Tool.Properties.Resources.resources
+C:\Users\Jean\Desktop\RAK476命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jean\Desktop\RAK476命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\android-studio\RAK476\RAK476命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3 Config Tool.exe
+D:\android-studio\RAK476\RAK476命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3 Config Tool.pdb
+D:\android-studio\RAK476\RAK476命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK4X3 Config Tool.exe
+D:\android-studio\RAK476\RAK476命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK4X3 Config Tool.pdb
+D:\android-studio\RAK476\RAK476命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\android-studio\RAK476\RAK476命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413_Config_Tool.Form1.resources
+D:\android-studio\RAK476\RAK476命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3_Config_Tool.Properties.Resources.resources
+D:\android-studio\RAK476\RAK476命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\android-studio\RAK476\RAK476命令配置工具 V1.1\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\android-studio\RAK476\RAK476命令配置工具 V1.8\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3 Config Tool.exe
+D:\android-studio\RAK476\RAK476命令配置工具 V1.8\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3 Config Tool.pdb
+D:\android-studio\RAK476\RAK476命令配置工具 V1.8\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK4X3 Config Tool.exe
+D:\android-studio\RAK476\RAK476命令配置工具 V1.8\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK4X3 Config Tool.pdb
+D:\android-studio\RAK476\RAK476命令配置工具 V1.8\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\android-studio\RAK476\RAK476命令配置工具 V1.8\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413_Config_Tool.Form1.resources
+D:\android-studio\RAK476\RAK476命令配置工具 V1.8\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3_Config_Tool.Properties.Resources.resources
+D:\android-studio\RAK476\RAK476命令配置工具 V1.8\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\android-studio\RAK476\RAK476命令配置工具 V1.8\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\android-studio\RAK476\RAK476命令配置工具 V1.8.2\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3 Config Tool.exe
+D:\android-studio\RAK476\RAK476命令配置工具 V1.8.2\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3 Config Tool.pdb
+D:\android-studio\RAK476\RAK476命令配置工具 V1.8.2\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK4X3 Config Tool.exe
+D:\android-studio\RAK476\RAK476命令配置工具 V1.8.2\RAK413 Config Tool\RAK413 Config Tool\bin\Debug\RAK4X3 Config Tool.pdb
+D:\android-studio\RAK476\RAK476命令配置工具 V1.8.2\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\android-studio\RAK476\RAK476命令配置工具 V1.8.2\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK413_Config_Tool.Form1.resources
+D:\android-studio\RAK476\RAK476命令配置工具 V1.8.2\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\RAK4X3_Config_Tool.Properties.Resources.resources
+D:\android-studio\RAK476\RAK476命令配置工具 V1.8.2\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\android-studio\RAK476\RAK476命令配置工具 V1.8.2\RAK413 Config Tool\RAK413 Config Tool\obj\x86\Debug\GenerateResource.write.1.tlog

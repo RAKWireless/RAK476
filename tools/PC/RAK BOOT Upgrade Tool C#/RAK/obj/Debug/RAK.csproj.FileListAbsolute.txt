@@ -1,0 +1,111 @@
+C:\Users\QuJin\Desktop\RAK\RAK\bin\Debug\RAK.exe.config
+C:\Users\QuJin\Desktop\RAK\RAK\bin\Debug\RAK.exe
+C:\Users\QuJin\Desktop\RAK\RAK\bin\Debug\RAK.pdb
+C:\Users\QuJin\Desktop\RAK\RAK\obj\Debug\RAK.Form1.resources
+C:\Users\QuJin\Desktop\RAK\RAK\obj\Debug\RAK.Properties.Resources.resources
+C:\Users\QuJin\Desktop\RAK\RAK\obj\Debug\RAK.exe
+C:\Users\QuJin\Desktop\RAK\RAK\obj\Debug\RAK.pdb
+C:\Users\QuJin\Desktop\RAK\RAK\obj\Debug\RAK.csprojResolveAssemblyReference.cache
+C:\Users\QuJin\Desktop\RAK\RAK\obj\Debug\RAK.csproj.GenerateResource.Cache
+C:\Users\qujin\Desktop\RAK--15\RAK\RAK\bin\Debug\RAK.exe.config
+C:\Users\qujin\Desktop\RAK--15\RAK\RAK\obj\Debug\RAK.exe
+C:\Users\qujin\Desktop\RAK--15\RAK\RAK\obj\Debug\RAK.pdb
+C:\Users\qujin\Desktop\RAK--15\RAK\RAK\bin\Debug\RAK.exe
+C:\Users\qujin\Desktop\RAK--15\RAK\RAK\bin\Debug\RAK.pdb
+C:\Users\qujin\Desktop\RAK--15\RAK\RAK\obj\Debug\RAK.Form1.resources
+C:\Users\qujin\Desktop\RAK--15\RAK\RAK\obj\Debug\RAK.Properties.Resources.resources
+C:\Users\QuJin\Desktop\RAK--15\RAK\RAK\obj\Debug\RAK.csprojResolveAssemblyReference.cache
+C:\Users\QuJin\Desktop\RAK--15\RAK\RAK\obj\Debug\RAK.csproj.GenerateResource.Cache
+C:\Users\qujin\Desktop\RAK--16\RAK\RAK\bin\Debug\RAK.exe.config
+C:\Users\qujin\Desktop\RAK--16\RAK\RAK\obj\Debug\RAK.exe
+C:\Users\qujin\Desktop\RAK--16\RAK\RAK\obj\Debug\RAK.pdb
+C:\Users\qujin\Desktop\RAK--16\RAK\RAK\bin\Debug\RAK.exe
+C:\Users\qujin\Desktop\RAK--16\RAK\RAK\bin\Debug\RAK.pdb
+C:\Users\qujin\Desktop\RAK--16\RAK\RAK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\qujin\Desktop\RAK--16\RAK\RAK\obj\Debug\RAK.Form1.resources
+C:\Users\qujin\Desktop\RAK--16\RAK\RAK\obj\Debug\RAK.Properties.Resources.resources
+C:\Users\qujin\Desktop\RAK--16\RAK\RAK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\qujin\Desktop\RAK--16\RAK\RAK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\qujin\Desktop\RAK--17\RAK\RAK\bin\Debug\RAK.exe.config
+C:\Users\qujin\Desktop\RAK--17\RAK\RAK\obj\Debug\RAK.exe
+C:\Users\qujin\Desktop\RAK--17\RAK\RAK\obj\Debug\RAK.pdb
+C:\Users\qujin\Desktop\RAK--17\RAK\RAK\bin\Debug\RAK.exe
+C:\Users\qujin\Desktop\RAK--17\RAK\RAK\bin\Debug\RAK.pdb
+C:\Users\qujin\Desktop\RAK--17\RAK\RAK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\qujin\Desktop\RAK--17\RAK\RAK\obj\Debug\RAK.Form1.resources
+C:\Users\qujin\Desktop\RAK--17\RAK\RAK\obj\Debug\RAK.Properties.Resources.resources
+C:\Users\qujin\Desktop\RAK--17\RAK\RAK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\qujin\Desktop\RAK--17\RAK\RAK\obj\Debug\GenerateResource.write.1.tlog
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--18\RAK\RAK\bin\Debug\RAK.exe.config
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--18\RAK\RAK\obj\Debug\RAK.exe
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--18\RAK\RAK\obj\Debug\RAK.pdb
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--18\RAK\RAK\bin\Debug\RAK.exe
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--18\RAK\RAK\bin\Debug\RAK.pdb
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--18\RAK\RAK\obj\Debug\ResolveAssemblyReference.cache
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--18\RAK\RAK\obj\Debug\RAK.Form1.resources
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--18\RAK\RAK\obj\Debug\RAK.Properties.Resources.resources
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--18\RAK\RAK\obj\Debug\GenerateResource.read.1.tlog
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--18\RAK\RAK\obj\Debug\GenerateResource.write.1.tlog
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--29\RAK\RAK\bin\Debug\RAK.exe.config
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--29\RAK\RAK\obj\Debug\RAK.exe
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--29\RAK\RAK\obj\Debug\RAK.pdb
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--29\RAK\RAK\bin\Debug\RAK.exe
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--29\RAK\RAK\bin\Debug\RAK.pdb
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--29\RAK\RAK\obj\Debug\ResolveAssemblyReference.cache
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--29\RAK\RAK\obj\Debug\RAK.Form1.resources
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--29\RAK\RAK\obj\Debug\RAK.Properties.Resources.resources
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--29\RAK\RAK\obj\Debug\GenerateResource.read.1.tlog
+E:\公司项目\WIFI\RAK\RAK生产工具资料\生产工具配置上位机\RAK--29\RAK\RAK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\qujin\Desktop\RAK--29\RAK\RAK\bin\Debug\RAK.exe.config
+C:\Users\qujin\Desktop\RAK--29\RAK\RAK\obj\Debug\RAK.exe
+C:\Users\qujin\Desktop\RAK--29\RAK\RAK\obj\Debug\RAK.pdb
+C:\Users\qujin\Desktop\RAK--29\RAK\RAK\bin\Debug\RAK.exe
+C:\Users\qujin\Desktop\RAK--29\RAK\RAK\bin\Debug\RAK.pdb
+C:\Users\qujin\Desktop\RAK--29\RAK\RAK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\qujin\Desktop\RAK--29\RAK\RAK\obj\Debug\RAK.Form1.resources
+C:\Users\qujin\Desktop\RAK--29\RAK\RAK\obj\Debug\RAK.Properties.Resources.resources
+C:\Users\qujin\Desktop\RAK--29\RAK\RAK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\qujin\Desktop\RAK--29\RAK\RAK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Jean\Desktop\RAK--8.27\RAK--8.27\RAK\RAK\bin\Debug\RAK.exe.config
+C:\Users\Jean\Desktop\RAK--8.27\RAK--8.27\RAK\RAK\obj\Debug\RAK.exe
+C:\Users\Jean\Desktop\RAK--8.27\RAK--8.27\RAK\RAK\obj\Debug\RAK.pdb
+C:\Users\Jean\Desktop\RAK--8.27\RAK--8.27\RAK\RAK\bin\Debug\RAK.exe
+C:\Users\Jean\Desktop\RAK--8.27\RAK--8.27\RAK\RAK\bin\Debug\RAK.pdb
+C:\Users\Jean\Desktop\RAK--8.27\RAK--8.27\RAK\RAK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jean\Desktop\RAK--8.27\RAK--8.27\RAK\RAK\obj\Debug\RAK.Form1.resources
+C:\Users\Jean\Desktop\RAK--8.27\RAK--8.27\RAK\RAK\obj\Debug\RAK.Properties.Resources.resources
+C:\Users\Jean\Desktop\RAK--8.27\RAK--8.27\RAK\RAK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Jean\Desktop\RAK--8.27\RAK--8.27\RAK\RAK\obj\Debug\GenerateResource.write.1.tlog
+E:\1.work project\Software\RAK\RAK生产工具资料\生产工具配置上位机\RAK--9.13\RAK--8.27\RAK\RAK\bin\Debug\RAK.exe.config
+E:\1.work project\Software\RAK\RAK生产工具资料\生产工具配置上位机\RAK--9.13\RAK--8.27\RAK\RAK\obj\Debug\RAK.exe
+E:\1.work project\Software\RAK\RAK生产工具资料\生产工具配置上位机\RAK--9.13\RAK--8.27\RAK\RAK\obj\Debug\RAK.pdb
+E:\1.work project\Software\RAK\RAK生产工具资料\生产工具配置上位机\RAK--9.13\RAK--8.27\RAK\RAK\bin\Debug\RAK.exe
+E:\1.work project\Software\RAK\RAK生产工具资料\生产工具配置上位机\RAK--9.13\RAK--8.27\RAK\RAK\bin\Debug\RAK.pdb
+E:\1.work project\Software\RAK\RAK生产工具资料\生产工具配置上位机\RAK--9.13\RAK--8.27\RAK\RAK\obj\Debug\ResolveAssemblyReference.cache
+E:\1.work project\Software\RAK\RAK生产工具资料\生产工具配置上位机\RAK--9.13\RAK--8.27\RAK\RAK\obj\Debug\RAK.Form1.resources
+E:\1.work project\Software\RAK\RAK生产工具资料\生产工具配置上位机\RAK--9.13\RAK--8.27\RAK\RAK\obj\Debug\RAK.Properties.Resources.resources
+E:\1.work project\Software\RAK\RAK生产工具资料\生产工具配置上位机\RAK--9.13\RAK--8.27\RAK\RAK\obj\Debug\GenerateResource.read.1.tlog
+E:\1.work project\Software\RAK\RAK生产工具资料\生产工具配置上位机\RAK--9.13\RAK--8.27\RAK\RAK\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Jean\Desktop\BOOT升级工具\RAK\RAK\bin\Debug\RAK.exe.config
+C:\Users\Jean\Desktop\BOOT升级工具\RAK\RAK\obj\Debug\RAK.exe
+C:\Users\Jean\Desktop\BOOT升级工具\RAK\RAK\obj\Debug\RAK.pdb
+C:\Users\Jean\Desktop\BOOT升级工具\RAK\RAK\bin\Debug\RAK.exe
+C:\Users\Jean\Desktop\BOOT升级工具\RAK\RAK\bin\Debug\RAK.pdb
+C:\Users\Jean\Desktop\BOOT升级工具\RAK\RAK\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jean\Desktop\BOOT升级工具\RAK\RAK\obj\Debug\RAK.Form1.resources
+C:\Users\Jean\Desktop\BOOT升级工具\RAK\RAK\obj\Debug\RAK.Properties.Resources.resources
+C:\Users\Jean\Desktop\BOOT升级工具\RAK\RAK\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Jean\Desktop\BOOT升级工具\RAK\RAK\obj\Debug\GenerateResource.write.1.tlog
+D:\android-studio\BOOT升级工具\RAK\RAK\bin\Debug\RAK.exe.config
+D:\android-studio\BOOT升级工具\RAK\RAK\obj\Debug\RAK.exe
+D:\android-studio\BOOT升级工具\RAK\RAK\obj\Debug\RAK.pdb
+D:\android-studio\BOOT升级工具\RAK\RAK\bin\Debug\RAK.exe
+D:\android-studio\BOOT升级工具\RAK\RAK\bin\Debug\RAK.pdb
+D:\android-studio\BOOT升级工具\RAK\RAK\obj\Debug\ResolveAssemblyReference.cache
+D:\android-studio\BOOT升级工具\RAK\RAK\obj\Debug\RAK.Form1.resources
+D:\android-studio\BOOT升级工具\RAK\RAK\obj\Debug\RAK.Properties.Resources.resources
+D:\android-studio\BOOT升级工具\RAK\RAK\obj\Debug\GenerateResource.read.1.tlog
+D:\android-studio\BOOT升级工具\RAK\RAK\obj\Debug\GenerateResource.write.1.tlog
+E:\RAK 工具C#源文件\BOOT升级工具\RAK\RAK\bin\Debug\RAK.exe.config
+E:\RAK 工具C#源文件\BOOT升级工具\RAK\RAK\obj\Debug\RAK.exe
+E:\RAK 工具C#源文件\BOOT升级工具\RAK\RAK\obj\Debug\RAK.pdb
