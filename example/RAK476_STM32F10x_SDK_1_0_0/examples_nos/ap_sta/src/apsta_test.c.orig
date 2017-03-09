@@ -1,0 +1,98 @@
+#include "rw_app.h"
+
+//
+void print_conn_event(uint8_t rsp_code, uint8_t block, uint8_t socket_fd)
+{
+    int i;
+    switch(rsp_code) {
+    case 0x80:
+        DPRINTF(LOG_INFO, "sock %d conn", socket_fd);
+        for(i=0; i<RAK_MAX_TCP_CLIENTS; i++) {
+            if(app_ctx.ltcps_cli[i] == FD_INVALID) {
+                app_ctx.ltcps_cli[i] = socket_fd;
+                app_ctx.tcpc_num++;
+                break;
+            }
+        }
+        if(i == RAK_MAX_TCP_CLIENTS) {
+            DPRINTF(LOG_INFO, "too much client")
+        }
+        break;
+    case 0x81:
+        DPRINTF(LOG_INFO, "sock %d dis", socket_fd);
+        if(!block) {
+            if(app_ctx.tcpc == socket_fd) {		//tcp client收到断开事件
+                app_ctx.tcpc = FD_INVALID;
+            }
+            for(i=0; i<RAK_MAX_TCP_CLIENTS; i++) {			//tcp server收到client断开事件
+                if(app_ctx.ltcps_cli[i] == socket_fd) {
+                    app_ctx.ltcps_cli[i] = FD_INVALID;
+                    app_ctx.tcpc_num--;
+                    break;
+                }
+            }
+        }
+        break;
+    case 0x82:
+        DPRINTF(LOG_INFO, "net conn");
+        app_ctx.net_status = 1;
+        break;
+    case 0x83:
+        DPRINTF(LOG_INFO, "net dis");
+        app_ctx.net_status = 0;
+        break;
+    default:
+        break;
+    }
+}
+
+int main()
+{
+    int ret = -1;
+    host_platformInit();
+    DPRINTF(LOG_INFO, "Host platform init...success\r\n");
+    rak_module_init();
+    init_param();
+
+    while(1) {
+        read_data_from_module();
+
+        if(app_ctx.net_status != 1 || app_ctx.ip_status != 1) {
+            ret = wifi_module_init();
+            if(ret >= 0) {
+                if(ret == CONN_OK) {
+                    app_ctx.net_status = 1;
+                } else if(ret == IP_OK) {
+                    app_ctx.ip_status = 1;
+                }
+            } else {
+								if(ret == CMD_PEND) {
+								} else if(ret == CMD_TIMEOUT) {
+                    DPRINTF(LOG_INFO, "cmd timeout");
+                } else {
+										DPRINTF(LOG_INFO, "cmd err %d", ret);
+								}
+            }
+        }
+        if(app_ctx.net_status == 1 && app_ctx.ip_status == 1) {
+            RAK_TcpClient_EventHandle();
+            RAK_TcpServer_EventHandle();
+            RAK_UdpClient_EventHandle();
+            RAK_UdpServer_EventHandle();
+					
+									//读网络状态
+				ret = query_con_status();
+				if(ret == CMD_OK) {
+						rak_qryconResponse* qry_con_response;
+            qry_con_response = (rak_qryconResponse*)uCmdRspFrame.uCmdRspBuf;
+						DPRINTF(LOG_INFO, "con ret %d", qry_con_response->qryconFrame.status);
+				} else if(ret < 0) {
+						if(ret == CMD_PEND) {
+						} else {
+								DPRINTF(LOG_INFO, "con ret %d", ret);
+						}
+				}
+        }
+    }
+
+}
